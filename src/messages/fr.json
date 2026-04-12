@@ -1,0 +1,53 @@
+{
+  "Index": {
+    "title": "Hôtel Le Bon Coin",
+    "welcome": "Bienvenue au Luxe",
+    "description": "Découvrez le meilleur séjour au cœur de la ville.",
+    "bookStay": "Réservez Votre Séjour",
+    "exploreRooms": "Explorer les Chambres",
+    "luxuryTitle": "Luxe 5 Étoiles",
+    "luxuryDesc": "Découvrez un service de classe mondiale et des équipements haut de gamme conçus pour votre confort.",
+    "secureTitle": "Sûr et Sécurisé",
+    "secureDesc": "Votre sécurité est notre priorité. Nous assurons une sécurité 24h/24 et 7j/7 et des services sans contact.",
+    "supportTitle": "Support 24/7",
+    "supportDesc": "Notre conciergerie est toujours disponible pour vous aider avec toutes vos demandes ou réservations.",
+    "ctaTitle": "Prêt pour une expérience inoubliable ?",
+    "reserveNow": "Réserver Maintenant"
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "reservation": "Réservation",
+    "contact": "Contact"
+  },
+  "Rooms": {
+    "title": "Nos Chambres",
+    "subtitle": "Choisissez la chambre parfaite pour votre séjour",
+    "bookNow": "Réserver"
+  },
+  "Reservation": {
+    "title": "Faire une Réservation",
+    "subtitle": "Remplissez les détails pour réserver votre séjour",
+    "name": "Nom Complet",
+    "email": "Adresse Email",
+    "room": "Sélectionner une Chambre",
+    "selectRoom": "Choisissez une chambre",
+    "dates": "Arrivée & Départ",
+    "pickDates": "Choisissez vos dates",
+    "selectDates": "Veuillez sélectionner les dates d'arrivée et de départ",
+    "submit": "Confirmer la Réservation",
+    "success": "Réservation soumise avec succès !",
+    "error": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "Contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider avec toutes vos questions",
+    "name": "Nom",
+    "email": "Email",
+    "subject": "Sujet",
+    "message": "Message",
+    "submit": "Envoyer le Message",
+    "success": "Message envoyé avec succès !",
+    "error": "Échec de l'envoi du message. Veuillez réessayer."
+  }
+}

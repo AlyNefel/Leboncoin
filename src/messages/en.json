@@ -1,0 +1,53 @@
+{
+  "Index": {
+    "title": "Le Bon Coin Hotel",
+    "welcome": "Welcome to Luxury",
+    "description": "Experience the best stay in the heart of the city.",
+    "bookStay": "Book Your Stay",
+    "exploreRooms": "Explore Rooms",
+    "luxuryTitle": "5-Star Luxury",
+    "luxuryDesc": "Experience world-class service and premium amenities designed for your comfort.",
+    "secureTitle": "Safe & Secure",
+    "secureDesc": "Your safety is our priority. We provide 24/7 security and contactless services.",
+    "supportTitle": "24/7 Support",
+    "supportDesc": "Our concierge is always available to assist you with any requests or bookings.",
+    "ctaTitle": "Ready for an unforgettable experience?",
+    "reserveNow": "Reserve Now"
+  },
+  "Navigation": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "reservation": "Reservation",
+    "contact": "Contact"
+  },
+  "Rooms": {
+    "title": "Our Rooms",
+    "subtitle": "Choose the perfect room for your stay",
+    "bookNow": "Book Now"
+  },
+  "Reservation": {
+    "title": "Make a Reservation",
+    "subtitle": "Fill in the details to book your stay",
+    "name": "Full Name",
+    "email": "Email Address",
+    "room": "Select Room",
+    "selectRoom": "Choose a room",
+    "dates": "Check-in & Check-out",
+    "pickDates": "Pick your dates",
+    "selectDates": "Please select check-in and check-out dates",
+    "submit": "Confirm Booking",
+    "success": "Reservation submitted successfully!",
+    "error": "Something went wrong. Please try again."
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you with any questions",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again."
+  }
+}
