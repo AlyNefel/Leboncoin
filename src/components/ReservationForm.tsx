@@ -11,6 +11,7 @@ import { format } from 'date-fns';
 import { Calendar as CalendarIcon, Loader2 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { toast } from 'sonner';
+import { DateRange } from 'react-day-picker';
 
 import { useSearchParams } from 'next/navigation';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
@@ -23,7 +24,7 @@ export function ReservationForm() {
   const searchParams = useSearchParams();
   const initialRoomId = searchParams.get('room') || '';
   
-  const [date, setDate] = useState<{ from: Date | undefined; to: Date | undefined }>({
+  const [date, setDate] = useState<DateRange | undefined>({
     from: undefined,
     to: undefined,
   });
@@ -32,7 +33,7 @@ export function ReservationForm() {
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    if (!date.from || !date.to) {
+    if (!date?.from || !date?.to) {
       toast.error(t('selectDates'));
       return;
     }
